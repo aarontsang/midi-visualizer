@@ -1,0 +1,5 @@
+midi_out/
+.venv/
+__pycache__/
+audio-files/
+backgrounds/
